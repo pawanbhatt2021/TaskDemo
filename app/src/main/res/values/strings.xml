@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskDemo</string>
+    <string name="todo">TODO</string>
+    <string name="apiKey">AIzaSyAnb29_wo9_QaTN72jNNy8Vblnzla81XfQ</string>
+    <string name="point">Point</string>
+    <string name="survey_no">Survey NO.</string>
+</resources>

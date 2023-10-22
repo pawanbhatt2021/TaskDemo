@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TaskDemo" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.TaskDemo" parent="Base.Theme.TaskDemo" >
+        <item name="colorPrimary">@color/pink_color</item>
+        <item name="colorPrimaryVariant">@color/pink_color</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor" tools:tagetApi="o">?attr/colorPrimaryVariant</item>
+    </style>
+    <style name="ProgressBar">
+        <item name="colorSecondary">@color/pink_color</item>
+    </style>
+</resources>
